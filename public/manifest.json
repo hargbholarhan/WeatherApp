@@ -1,0 +1,22 @@
+{
+"shortname" : "weatherApp",
+"name" : "Mujeb's weather app",
+"description": "A simple app to weather condition of a given area",		
+"icons": [
+{
+"src": "png/001-cloud.png",
+"type": "image/png",
+"size": "96x96"
+},
+{
+"src": "png/002-rainy.png",
+"type": "image/png",
+"size": "96x96"
+}
+],	
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#fff",
+"theme_color": "#000",
+"scope": "/"
+}
